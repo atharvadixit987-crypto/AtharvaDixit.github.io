@@ -47,7 +47,7 @@ I’m continuously learning and growing my technical toolkit.
 ---
 
 ## 🔗 Connect With Me  
-- 💻 **GitHub**: [github.com/atharvadixit987](https://github.com/AtharvaDixit)  
+- 💻 **GitHub**: [github.com/atharvadixit987](https://github.com/AtharvaDixit.github.io)  
 - ✉️ **Email**: athdixit10@gmail.com  
 
 ---
